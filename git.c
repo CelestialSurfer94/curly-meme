@@ -12,3 +12,7 @@ int feature_A(int n){
     return 0;
   }
 }
+
+int feature_C(){
+	return 42;
+}
