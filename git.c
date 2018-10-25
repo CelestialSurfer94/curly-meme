@@ -16,3 +16,7 @@ int feature_A(int n){
 int feature_B(){
 	return -42;
 }
+
+int feature_B2(){
+	return 1234 * 2;
+}
