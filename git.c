@@ -21,3 +21,7 @@ int feature_B(){
 int feature_C(){
 	return 42;
 }
+
+int feature_C2(){
+	return -123;
+}
