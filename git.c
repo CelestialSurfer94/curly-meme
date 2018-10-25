@@ -13,6 +13,11 @@ int feature_A(int n){
   }
 }
 
+
+int feature_B(){
+	return -42;
+}
+
 int feature_C(){
 	return 42;
 }
